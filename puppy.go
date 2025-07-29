@@ -5,5 +5,5 @@ func Bark(){
 }
 
 func Barks(){
-	println("Woof!! Woof!! Woof!!")
+	println("Woof!! Woof!! Woof!! Woof!!")
 }
